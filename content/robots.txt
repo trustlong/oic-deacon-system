@@ -1,0 +1,8 @@
+# Ask crawlers and AI bots not to index this site.
+# NOTE: robots.txt is only honored at a domain ROOT (e.g. https://docs.oic-church.com/robots.txt).
+# On the current GitHub Pages subpath (trustlong.github.io/oic-deacon-system/) crawlers ignore it,
+# so the authoritative control is the `noindex` meta tag on every page (see quartz/components/Head.tsx).
+# This file becomes effective if/when the site moves to a custom domain at its root.
+
+User-agent: *
+Disallow: /
