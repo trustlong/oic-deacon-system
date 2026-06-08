@@ -70,11 +70,16 @@ If financial help is what you need, see [[benevolence-who-qualifies|who qualifie
 
 ## How to ask for help
 
-You can reach the deacons any of these ways:
+The simplest way:
+
+### ➡️ [Fill out our request form](https://script.google.com/macros/s/AKfycbymhYETeXtj8m8Lnfi3GDx4Zj90PC4kU3gLq0R2JstgTjIke9p0H1Ogd0e2VJlmyRCq5Q/exec)
+
+It takes a couple of minutes and goes straight to the deacon on duty, who will reach out to you. You can fill it out for yourself, or for someone else in the church.
+
+You can also reach us:
 
 - **On a Sunday** — speak to any deacon in person. (Not sure who the deacons are? Ask any elder, shepherd, or cell group leader — they will point you to one.)
-- **By email** — *(deacon email address to be added here)*
-- **Through someone you trust** — an elder, a shepherd, a cell group leader, or anyone else who knows your situation can pass the request along on your behalf. You do not have to ask for yourself.
+- **Through someone you trust** — an elder, a shepherd, a cell group leader, or anyone else who knows your situation can fill out the form or pass the request along on your behalf. You do not have to ask for yourself.
 
 ### What to share
 

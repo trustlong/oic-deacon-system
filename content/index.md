@@ -11,7 +11,7 @@ Welcome. This is the home of the **OIC Deacon Response System** — how our deac
 
 If you (or someone you know in the church) have a practical need — financial, logistical, a repair, a ride, a meal, help with something — start here:
 
-➡️ **[[need-help|Need Help? Start here]]**
+➡️ **[Fill out our request form](https://script.google.com/macros/s/AKfycbymhYETeXtj8m8Lnfi3GDx4Zj90PC4kU3gLq0R2JstgTjIke9p0H1Ogd0e2VJlmyRCq5Q/exec)** — or read **[[need-help|Need Help? Start here]]** first.
 
 For spiritual care, counseling, or prayer, those are entrusted to our **elders** — see [[handbook-tangible-vs-spiritual|how needs are directed]].
 
