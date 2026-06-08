@@ -1,33 +1,58 @@
 ---
-title: "Response System — Design Overview"
-status: draft
+title: "Deacon Response System — Design Overview"
+status: design
+tags: ["design"]
 ---
 
-> **Internal working document.** This folder is the home for designing the OIC Deacon Response System. Nothing here is published to the congregation (the `design/` folder is excluded from the public site, and notes have no `publish: true` flag). Move finalized, congregation-appropriate content into `content/published/` when ready.
+# Deacon Response System — Design Overview
 
 ## Purpose
 
-Design a clear, self-teachable workflow so that a deacon can **receive any congregation member's tangible need, route it to the right person, track it, and ensure it is met** — never letting a request fall through the cracks. Modeled on **Acts 6**.
+The OIC Deacon Response System operationalizes the Acts 6 model: deacons serve as first responders to the congregation's **tangible needs** so that elders remain free for prayer and the ministry of the Word. Every request that comes through the door gets logged, acknowledged, owned, worked, and closed — with no one falling through the cracks.
 
-## The pieces to design
+> "Select from among you seven men of good repute, full of the Spirit and of wisdom, whom we will appoint to this duty." — Acts 6:3
 
-- [[request-taxonomy]] — the comprehensive list of request types we expect, and which function each maps to.
-- [[routing-and-functions]] — how each request is navigated to a specific person across the four functions; the "resource priority pass."
-- [[sla-and-urgency]] — urgency tiers and response timelines for responders.
-- [[escalation-to-elders]] — when and how to redirect spiritual / non-tangible needs to elders, while minimizing elder load.
-- [[resource-tagging]] — how we tag which members have the resources/skills to help (the data layer that doesn't exist yet).
-- [[crack-detection]] — how we track requests and react when one is at risk of being dropped.
-- [[templates/index|Communication templates]] — acknowledgement, assignment, follow-up, redirect, closure.
+## Design Principles
 
-## Design principles (draft)
+1. **One front door.** Every request enters through the [[duty-roster|Duty Deacon]]. No ambiguity about who receives it first.
+2. **Person-to-person, always.** Every handoff is one named person to one named person. Nothing is dropped into a group or channel to "see who picks it up."
+3. **Owners resolve and close.** The duty deacon hands off and is done. The owner works the need, follows up, and confirms closure with the member.
+4. **The chair sees everything.** The Deacon Chair has a real-time view of all open requests and is the single escalation point when something stalls.
+5. **Elders for spiritual matters only.** Tangible needs stay with deacons. Spiritual needs, soul care, church discipline, and policy thresholds go to elders — with a warm hand-off, never a bounce.
+6. **Stalled requests are never silently closed.** A stall is a crack. It gets detected, root-caused, and repaired — with an apology to the member.
 
-1. **One front door, no wrong door.** The member never needs to know who to ask.
-2. **A named owner per request.** Every request has one deacon accountable for it end to end.
-3. **Route to a person, not a queue.** Prefer a specific member with the right resource over a generic team.
-4. **Protect the elders' time.** Redirect spiritual matters to elders, but resolve everything tangible within the diaconate.
-5. **Nothing falls through.** Every request is tracked to closure with a clear follow-up.
-6. **A deacon can learn it alone.** The workflow must be readable and followable without training.
+## The Four Functions at a Glance
 
-## Inputs / source material
+| Function | Sub-lanes |
+|---|---|
+| **Administration** | Records, scheduling, correspondence |
+| **Operations** | Welcome, Kitchen, Coffee, IT, Security, Drivers |
+| **Communication** | PEP (prayer/encouragement/pastoral support routing), announcements |
+| **Finance** | Benevolence, budget-tracked spending |
 
-See `content/reference/` for the Handbook, Bylaws, Benevolence Policy, Building Fund Policy, the Service Sign-Up (ministry roster), and the Membership Database. The membership data will inform [[resource-tagging]].
+See [[routing-and-functions]] for the full function map and routing logic.
+
+## Design Notes Index
+
+| Note | What it covers |
+|---|---|
+| [[deacon-playbook]] | **Start here.** The complete duty-deacon SOP, linear and self-teachable |
+| [[request-taxonomy]] | How requests are categorized: type, function, sub-lane |
+| [[routing-and-functions]] | The four functions, sub-lanes, resource priority pass, owner selection |
+| [[sla-and-urgency]] | The three urgency tiers, acknowledgment and action targets |
+| [[escalation-to-elders]] | When and how to involve an elder; split-mixed-request pattern |
+| [[crack-detection]] | Request states, stall triggers, chair alerts, reopen-and-apologize rule |
+| [[resource-tagging]] | The Helpers Directory and how skill/resource tags are maintained |
+| [[tracker-spec]] | Data model, required fields, state machine, UI requirements |
+| [[duty-roster]] | How the weekly duty rotation is set, published, and communicated |
+| [[templates/index\|Communication templates]] | Acknowledgment, hand-off, closure, elder escalation, and more |
+
+## How to Read These Notes
+
+**New duty deacon?** Read [[deacon-playbook]] first — it is the complete, linear SOP. Then skim [[sla-and-urgency]] so the urgency tiers are clear in your mind.
+
+**Function owner or director?** Read [[routing-and-functions]] and [[escalation-to-elders]].
+
+**Deacon Chair?** Read everything, but pay particular attention to [[crack-detection]].
+
+> **Internal working document.** This folder is excluded from the public site. Notes do not carry `publish: true`. Move finalized, congregation-appropriate content into `content/published/` when ready.
