@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base target="_top">
+  <meta charset="utf-8">
+  <style>
+    :root { --ink:#2b2b2b; --accent:#284b63; --soft:#84a59d; --line:#e5e5e5; --bg:#faf8f8; }
+    * { box-sizing: border-box; }
+    body { margin:0; background:var(--bg); color:var(--ink);
+      font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+      line-height:1.5; }
+    .wrap { max-width:600px; margin:0 auto; padding:24px 18px 60px; }
+    h1 { color:var(--accent); font-size:1.5rem; margin:0 0 4px; }
+    .lede { color:#4e4e4e; margin:0 0 20px; }
+    .card { background:#fff; border:1px solid var(--line); border-radius:12px; padding:20px; }
+    label { display:block; font-weight:600; margin:16px 0 6px; }
+    .hint { font-weight:400; color:#777; font-size:.85rem; }
+    input[type=text], input[type=tel], textarea, select {
+      width:100%; padding:11px 12px; border:1px solid #cfcfcf; border-radius:8px;
+      font-size:1rem; font-family:inherit; background:#fff; }
+    textarea { min-height:96px; resize:vertical; }
+    .req:after { content:" *"; color:#b00; }
+    .choices label { font-weight:400; margin:8px 0; display:flex; align-items:center; gap:8px; }
+    .choices input { width:auto; }
+    .hp { position:absolute; left:-9999px; }
+    button { margin-top:22px; width:100%; padding:13px; border:0; border-radius:8px;
+      background:var(--accent); color:#fff; font-size:1.05rem; font-weight:600; cursor:pointer; }
+    button:disabled { opacity:.6; cursor:default; }
+    .note { margin-top:14px; font-size:.85rem; color:#777; }
+    .err { color:#b00; margin-top:12px; }
+    .hidden { display:none; }
+    #done { text-align:center; padding:30px 10px; }
+    #done h2 { color:var(--accent); }
+    #beneficiary, #relay { border-left:3px solid var(--soft); padding-left:12px; margin-top:8px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>Ask the Deacons for Help</h1>
+    <p class="lede">Tell us what's going on. You don't need to know who to ask — a deacon
+      will reach out to you. What you share stays private with our deacons.</p>
+
+    <div class="card" id="formCard">
+      <form id="f" onsubmit="return false;">
+        <input type="text" class="hp" name="website" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+        <label class="req">Who is this request for?</label>
+        <div class="choices">
+          <label><input type="radio" name="forWhom" value="me" checked onchange="toggleFor()"> Me</label>
+          <label><input type="radio" name="forWhom" value="someone-else" onchange="toggleFor()"> Someone else in the church</label>
+        </div>
+
+        <div id="beneficiary" class="hidden">
+          <label>Their name <span class="hint">(the person who needs help)</span></label>
+          <input type="text" id="beneficiaryName">
+          <label>A way to reach them <span class="hint">(if you have it)</span></label>
+          <input type="text" id="beneficiaryContact">
+          <label>Are you relaying this as a leader? <span class="hint">(optional)</span></label>
+          <select id="relayRole">
+            <option value="">No / just helping</option>
+            <option>Elder</option>
+            <option>Shepherd</option>
+            <option>Cell group leader</option>
+            <option>Other</option>
+          </select>
+        </div>
+
+        <label class="req">Your name</label>
+        <input type="text" id="name">
+
+        <label class="req">Best phone or email to reach you</label>
+        <input type="text" id="contact">
+
+        <label class="req">Tell us what's going on / what you need</label>
+        <textarea id="need" placeholder="A few sentences is plenty."></textarea>
+
+        <label class="req">How soon is this?</label>
+        <select id="howSoon">
+          <option value="week" selected>Sometime this week would help</option>
+          <option value="emergency">It's an emergency / today</option>
+          <option value="norush">No rush</option>
+        </select>
+
+        <label>Best times to reach you <span class="hint">(optional)</span></label>
+        <input type="text" id="bestTime" placeholder="e.g. evenings, or after 3pm weekdays">
+
+        <label>Anything you've already tried? <span class="hint">(optional)</span></label>
+        <textarea id="tried"></textarea>
+
+        <div class="choices" style="margin-top:16px;">
+          <label><input type="checkbox" id="confirm"> I'd like a deacon to reach out to me.</label>
+        </div>
+
+        <button id="submit" onclick="submitForm()">Send to the deacons</button>
+        <div class="err hidden" id="err"></div>
+        <p class="note" id="emergencyNote"></p>
+      </form>
+    </div>
+
+    <div class="card hidden" id="done">
+      <h2>Thank you 🙏</h2>
+      <p>We've received your request. A deacon will reach out to you soon.</p>
+      <p class="note" id="doneEmergency"></p>
+    </div>
+  </div>
+
+  <script>
+    var EMERGENCY_PHONE = '';
+    google.script.run.withSuccessHandler(function (cfg) {
+      EMERGENCY_PHONE = cfg.emergencyPhone || '';
+      var line = EMERGENCY_PHONE
+        ? "If this is an emergency that can't wait, please also call " + EMERGENCY_PHONE + "."
+        : "If this is a life-threatening emergency, call 911.";
+      document.getElementById('emergencyNote').textContent = line;
+      document.getElementById('doneEmergency').textContent = line;
+    }).getClientConfig();
+
+    function toggleFor() {
+      var other = document.querySelector('input[name=forWhom]:checked').value === 'someone-else';
+      document.getElementById('beneficiary').classList.toggle('hidden', !other);
+    }
+
+    function val(id){ return (document.getElementById(id).value || '').trim(); }
+
+    function submitForm() {
+      var err = document.getElementById('err');
+      err.classList.add('hidden');
+      if (!val('name') || !val('contact') || !val('need')) {
+        return showErr('Please fill in your name, a contact, and what you need.');
+      }
+      if (!document.getElementById('confirm').checked) {
+        return showErr('Please check the box so we know to reach out.');
+      }
+      var btn = document.getElementById('submit');
+      btn.disabled = true; btn.textContent = 'Sending…';
+
+      var data = {
+        website: val('website'),
+        forWhom: document.querySelector('input[name=forWhom]:checked').value,
+        beneficiaryName: val('beneficiaryName'),
+        beneficiaryContact: val('beneficiaryContact'),
+        relayRole: val('relayRole'),
+        name: val('name'),
+        contact: val('contact'),
+        need: val('need'),
+        howSoon: val('howSoon'),
+        bestTime: val('bestTime'),
+        tried: val('tried')
+      };
+
+      google.script.run
+        .withSuccessHandler(function (res) {
+          if (res && res.ok) {
+            document.getElementById('formCard').classList.add('hidden');
+            document.getElementById('done').classList.remove('hidden');
+            window.scrollTo(0, 0);
+          } else {
+            btn.disabled = false; btn.textContent = 'Send to the deacons';
+            showErr((res && res.error) || 'Something went wrong.');
+          }
+        })
+        .withFailureHandler(function (e) {
+          btn.disabled = false; btn.textContent = 'Send to the deacons';
+          showErr('Network problem — please try again, or contact a deacon directly.');
+        })
+        .processIntake(data);
+    }
+
+    function showErr(msg) {
+      var err = document.getElementById('err');
+      err.textContent = msg; err.classList.remove('hidden');
+      return false;
+    }
+  </script>
+</body>
+</html>
