@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "oic-church.github.io/deacon-system",
+    baseUrl: "trustlong.github.io/oic-deacon-system",
     ignorePatterns: ["private", "templates", ".obsidian", "design", "reference"],
     defaultDateType: "modified",
     theme: {

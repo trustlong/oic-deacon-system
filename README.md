@@ -1,18 +1,34 @@
-# Quartz v4
+# OIC Deacon Response System
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+A wiki and (future) operational system for the OIC church deacons to respond to the
+tangible needs of congregation members — following the pattern of **Acts 6**.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Built with [Quartz](https://quartz.jzhao.xyz/) (v4), published from an Obsidian vault.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+## Structure
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+- `content/` — the Obsidian vault / site content
+  - `index.md`, `need-help.md`, `handbook/`, `bylaws/`, `benevolence/`, `building-fund/`
+    — **published** (congregation-facing) atomic notes
+  - `design/` — **internal** working design of the response system (never published)
+  - `reference/` — source documents (never published)
+- `quartz.config.ts` — site config
 
-## Sponsors
+## Publishing model
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Only notes with `publish: true` in frontmatter are built into the public site
+(`ExplicitPublish` filter), and `design/` + `reference/` are excluded via
+`ignorePatterns`. **Member data (membership CSV, service roster) is gitignored and
+never committed.**
+
+## Local development
+
+```sh
+npm install
+npx quartz build --serve   # → http://localhost:8080
+```
+
+## Deployment
+
+Pushing to `main` triggers `.github/workflows/deploy.yml`, which builds the site and
+publishes it to GitHub Pages. Enable it under **Settings → Pages → Source: GitHub Actions**.
