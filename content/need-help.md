@@ -13,6 +13,19 @@ Our deacons exist for one purpose: to make sure no one in our church family carr
 
 ---
 
+## Looking for something else?
+
+This page is for **personal or family needs** — bills, rides, meals, and things like that. If you actually came here looking for one of these, here's a shortcut instead:
+
+- **Want to give financially to the church?** → [Giving](https://www.oic-church.com/giving)
+- **Need to reserve a room or equipment?** → [Documents & Forms](https://www.oic-church.com/documents) has the Facility Rental Policy and the request form.
+- **Looking for a church policy, form, or the bylaws?** → [Documents & Forms](https://www.oic-church.com/documents)
+- **Have a general question, a testimony to share, or a prayer request?** → [Contact us](https://www.oic-church.com/contact)
+
+If none of those fit, keep reading — you're in the right place.
+
+---
+
 ## What kinds of needs?
 
 Here are some examples — organized by situation — so you can see yourself in them. If yours isn't listed, ask anyway.

@@ -15,6 +15,13 @@ If you (or someone you know in the church) have a practical need — financial, 
 
 For spiritual care, counseling, or prayer, those are entrusted to our **elders** — see [[handbook-tangible-vs-spiritual|how needs are directed]].
 
+## Looking for something else?
+
+- **Give** → [Giving](https://www.oic-church.com/giving)
+- **Reserve a room or equipment** → [Documents & Forms](https://www.oic-church.com/documents)
+- **Church policies, bylaws, or other forms** → [Documents & Forms](https://www.oic-church.com/documents)
+- **General question or contact info** → [Contact us](https://www.oic-church.com/contact)
+
 ## How our deacons are organized
 
 Our deacons serve through **four core functions**. Each request is routed to the function (or functions) best able to help:
