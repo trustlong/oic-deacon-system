@@ -35,7 +35,7 @@ If you need meals coordinated and are not sure how to set it up, [[need-help|ask
 
 For licensed childcare beyond Head Start, [Center for Early Success](https://centerforearlysuccess.org/finding-childcare/lynchburg/) maintains a Lynchburg-specific directory.
 
-> **Still needed (deacons: add):** local parent support groups — these tend to be informal or church-run and aren't well indexed publicly.
+**Church family groups:** Young Family Fellowship — for families with younger children, contact Dan Braswell. A second, more established family group is also active — contact Jay Song. [[need-help|Ask a deacon]] to connect you with either.
 
 ---
 

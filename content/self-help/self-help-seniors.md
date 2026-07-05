@@ -21,7 +21,7 @@ Getting to appointments, church, and errands matters.
 
 **GLTC Paratransit** — for those whose disability prevents using regular bus routes; covers all of Lynchburg plus a 3/4-mile radius beyond routes. $4 per one-way trip. Book by 5pm the evening before; rides run Mon–Fri 8:30am–5pm. Call (434) 455-5099.
 
-> **Still needed (deacons: add):** any known church volunteer driver arrangement or informal rotation for members who need regular rides — this is specific to our congregation and not something publicly listed.
+**Church ride coordination:** Bob You coordinates rides for members who need one. [[need-help|Ask a deacon]] to connect you with him.
 
 If you need a ride and the options above don't work for your situation, [[need-help|ask a deacon]] — church members regularly offer rides.
 

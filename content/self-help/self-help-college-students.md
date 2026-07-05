@@ -23,7 +23,7 @@ Not having a car in Lynchburg is manageable with some planning.
 
 **University of Lynchburg / Randolph College students:** check with your school's transportation or student life office directly — their shuttle details are less consistently published online than Liberty's.
 
-> **Still needed (deacons: add):** a regular church ride-coordination contact for students without a car.
+**Church ride coordination:** Bob You coordinates rides for members who need one. [[need-help|Ask a deacon]] to connect you with him.
 
 ---
 
@@ -62,7 +62,7 @@ The beginning and end of the school year involve a lot of heavy lifting — some
 - If you need help moving in or out, **ask a deacon** well in advance; church members have been glad to pitch in with trucks, muscle, and boxes
 - **FreeCycle** — a community network for free items, including boxes and packing materials: [freecycle.org](https://www.freecycle.org)
 
-> **Local resources (deacons: add any church member truck/van contacts or annual move-out donation drop-off info here)**
+**Move-in/move-out help:** Ryan, Moana, and Peter are our regular contacts for trucks, muscle, and coordinating donation drop-offs. [[need-help|Ask a deacon]] to connect you with them.
 
 ---
 

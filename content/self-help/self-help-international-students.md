@@ -18,7 +18,7 @@ Whether you are arriving for the first time or have been here a semester already
 - Let a deacon or church contact know your arrival flight and time — we can often arrange a pickup or point you to transportation options
 - **Amtrak** serves Lynchburg if you are arriving from a major city: [amtrak.com](https://www.amtrak.com)
 
-> **Still needed (deacons: add):** a specific contact name/method for arranging an airport pickup — this is a church-run arrangement, not something publicly listed.
+**Airport pickup and rides:** Bob You coordinates rides, including airport pickups. [[need-help|Ask a deacon]] to connect you with him, and share your arrival flight and time as early as you can.
 
 ### Your School's International Student Office
 
@@ -46,7 +46,7 @@ Getting around without a car takes planning, but it is doable.
 
 **Lynchburg University / Randolph College students:** check with your school's international student office or transportation office directly.
 
-> **Still needed (deacons: add):** a church carpool contact for students without a car.
+**Church ride coordination:** Bob You coordinates rides and carpools for members without a car. [[need-help|Ask a deacon]] to connect you with him.
 
 ---
 
@@ -60,7 +60,7 @@ Setting up a place to live can be expensive. These options can help:
 
 **Thrift stores:** Goodwill has two Lynchburg locations — 3213 Forest Brook Rd (Walmart Plaza) and 2420 Wards Rd, both Mon–Sat 10am–7pm, Sun 12–6pm. Salvation Army also serves the area; check [salvationarmyusa.org](https://www.salvationarmyusa.org) for the current nearest location.
 
-> **Still needed (deacons: add):** church donation resources or student move-out free-item events specific to our congregation.
+**Move-out help and donations:** Ryan, Moana, and Peter are our regular contacts for trucks, muscle, and coordinating donation drop-offs at the end of the school year. [[need-help|Ask a deacon]] to connect you with them.
 
 ---
 
@@ -80,7 +80,7 @@ If you need to store belongings over the summer instead of shipping them home:
 
 Being away from family during holidays like Thanksgiving and Christmas can be hard. Our church has members who love to open their homes.
 
-> **Local resources (deacons: add the process for connecting international students with host families here — e.g., how to request a holiday host)**
+We do not currently have a formal host family program running. For a short-term stay (a holiday, a break between semesters, or a gap before your dorm opens), reach out to Rachel, Long, or David — [[need-help|ask a deacon]] to connect you.
 
 If you would like to spend a holiday with a church family, please [[need-help|let a deacon know]] ahead of time so we can make arrangements.
 
