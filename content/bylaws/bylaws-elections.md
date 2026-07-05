@@ -4,7 +4,9 @@ publish: true
 tags: ["bylaws"]
 ---
 
-*Article 5, Sections 1–3*
+*Article 5, Section 2*
+
+See also: [[bylaws-fiscal-year-budget|Article 5, Section 1 — Fiscal Year & Budget Plan]].
 
 ## Annual Election Cycle
 

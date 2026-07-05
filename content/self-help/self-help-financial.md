@@ -32,7 +32,7 @@ If your utilities are at risk of shutoff — or already off:
 - **Virginia LIHEAP** — apply through your local Department of Social Services: [dss.virginia.gov/benefit/liheap.cgi](https://www.dss.virginia.gov/benefit/liheap.cgi)
 - **211.org** — lists additional local utility assistance programs
 
-> **Local resources (deacons: add Lynchburg DSS contact information and any local emergency utility assistance contacts here)**
+**Lynchburg Department of Social Services** — 99 9th St, Lynchburg, VA 24505. Phone (434) 455-5850. Handles LIHEAP/fuel assistance intake. For SNAP/TANF/Medicaid, the statewide line is 855-635-4370.
 
 ---
 
@@ -51,7 +51,12 @@ If your utilities are at risk of shutoff — or already off:
 - **Feeding America food bank locator** — find a food bank or pantry near you: [feedingamerica.org/find-your-local-foodbank](https://www.feedingamerica.org/find-your-local-foodbank)
 - **211.org** — also lists local food pantries with current hours
 
-> **Local resources (deacons: add Lynchburg-area food pantries, including hours and any income/ID requirements, here)**
+**Lynchburg-area food pantries** *(call ahead — hours and any ID/income requirements vary and change)*:
+- **Blue Ridge Area Food Bank** — 501 12th St; Mon–Fri 8am–4:30pm (closed for lunch)
+- **Lynchburg Daily Bread** — free hot carry-out lunch daily, 10:15am–12:20pm
+- **Tree of Life Ministries** — 2027 12th St; Mon 8–10am, Tue 11am–1pm
+- **Holy Cross Catholic Church** — food bags, Tue 1–3pm
+- **The Fillin' Station (Timberlake Church)** — Mon 5–6:30pm, Fri 11am–12:30pm
 
 ---
 

@@ -40,4 +40,4 @@ Our deacons serve through **four core functions**. Each request is routed to the
 
 ---
 
-*The full step-by-step response workflow — request types, timelines, routing, and follow-up — is currently being designed and will be published here as it is finalized.*
+*The full step-by-step response workflow — request types, timelines, routing, and follow-up — is fully documented for deacons in an internal working set of design notes, not published here since it's written for duty deacons rather than members. See [[what-happens-to-your-request|What Happens to Your Request]] for the member-facing version.*

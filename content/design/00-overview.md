@@ -46,6 +46,8 @@ See [[routing-and-functions]] for the full function map and routing logic.
 | [[tracker-spec]] | Data model, required fields, state machine, UI requirements |
 | [[duty-roster]] | How the weekly duty rotation is set, published, and communicated |
 | [[templates/index\|Communication templates]] | Acknowledgment, hand-off, closure, elder escalation, and more |
+| [[writing-style]] | The three content registers used across this site (member-facing, handbook, reference-mirror) |
+| [[webapp/intake-app\|Intake front door (web app)]] | Phase 3 MVP: the public request form, its Apps Script backend, and how it writes into the tracker |
 
 ## How to Read These Notes
 

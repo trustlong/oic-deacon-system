@@ -19,7 +19,11 @@ Not having a car in Lynchburg is manageable with some planning.
 - **Your campus shuttle** — check with your school's transportation office; some campuses run shuttles to grocery stores and other destinations
 - **Church rides** — church members regularly offer rides to Sunday services and sometimes to appointments or errands; ask a deacon to connect you
 
-> **Local resources (deacons: add campus-specific shuttle details or a regular ride coordination contact here)**
+**Liberty University students:** Liberty Transit runs frequent free bus routes (Routes 71/72/75 cover main campus, East Campus, and Liberty Mountain) roughly every 6-7 minutes on weekdays, plus an on-demand ride service daily 5:30am–1am. Call (434) 592-3640 or email TransitDispatch@liberty.edu.
+
+**University of Lynchburg / Randolph College students:** check with your school's transportation or student life office directly — their shuttle details are less consistently published online than Liberty's.
+
+> **Still needed (deacons: add):** a regular church ride-coordination contact for students without a car.
 
 ---
 
@@ -44,7 +48,10 @@ If you are running short on food, please do not go hungry.
 
 If you are unsure whether you qualify for anything here, [[need-help|ask a deacon]] — we can help you figure it out.
 
-> **Local resources (deacons: add Lynchburg-area food pantries open to students, including hours, here)**
+**Lynchburg-area food pantries** *(open to anyone, not just members of a particular church — call ahead to confirm hours)*:
+- **Blue Ridge Area Food Bank** — 501 12th St; Mon–Fri 8am–4:30pm (closed for lunch)
+- **Lynchburg Daily Bread** — free hot carry-out lunch daily, 10:15am–12:20pm
+- **The Fillin' Station (Timberlake Church)** — Mon 5–6:30pm, Fri 11am–12:30pm
 
 ---
 

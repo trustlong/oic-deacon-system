@@ -19,7 +19,9 @@ Getting to appointments, church, and errands matters.
 - **Greater Lynchburg Transit Company (GLTC)** — local bus service: [gltconline.com](https://www.gltconline.com)
 - **JAUNT / Valley Metro** — regional transit that may include paratransit or senior-specific options
 
-> **Local resources (deacons: add Lynchburg-area senior transportation services, paratransit contacts, and any church volunteer driver arrangements here)**
+**GLTC Paratransit** — for those whose disability prevents using regular bus routes; covers all of Lynchburg plus a 3/4-mile radius beyond routes. $4 per one-way trip. Book by 5pm the evening before; rides run Mon–Fri 8:30am–5pm. Call (434) 455-5099.
+
+> **Still needed (deacons: add):** any known church volunteer driver arrangement or informal rotation for members who need regular rides — this is specific to our congregation and not something publicly listed.
 
 If you need a ride and the options above don't work for your situation, [[need-help|ask a deacon]] — church members regularly offer rides.
 
@@ -37,7 +39,7 @@ Medicare is complicated. Free counseling is available.
 - **Virginia SHIP (State Health Insurance Assistance Program)** — trained volunteer counselors help you understand your Medicare options for free: [seniorsblueprint.virginia.gov/insurance](https://www.seniorsblueprint.virginia.gov/insurance/) or call **1-800-552-3402**
 - **VICAP (Virginia Insurance Counseling and Assistance Program)** — part of Virginia SHIP, specifically focused on Medicare and supplemental insurance
 
-> **Local resources (deacons: add Lynchburg-area SHIP counselor contacts and appointment information here)**
+**Local VICAP provider:** Central Virginia Alliance for Community Living (CVACL), 501 12th St, Suite A, Lynchburg, VA 24504. Phone (434) 385-9070. Counseling is available by phone or in-person appointment. If you have trouble reaching them, the statewide VICAP intake line is (804) 343-3014.
 
 ---
 
@@ -49,7 +51,7 @@ If you need help with daily activities at home:
 - **Virginia Department for Aging and Rehabilitative Services (DARS)** — connects seniors with in-home services: [vda.virginia.gov](https://www.vda.virginia.gov)
 - **Area Agencies on Aging** — local organizations that coordinate services for seniors; find yours through the Eldercare Locator above
 
-> **Local resources (deacons: add the local Area Agency on Aging contact and any known local in-home care resources here)**
+**Local Area Agency on Aging:** Central Virginia Alliance for Community Living (CVACL) — same office as the VICAP counselors above: 501 12th St, Suite A, Lynchburg, VA 24504, (434) 385-9070. They coordinate services, in-home support referrals, respite care, and caregiver support for the Lynchburg region.
 
 ---
 
@@ -60,7 +62,7 @@ If you need help with daily activities at home:
 - **SNAP (food stamps)** — seniors often qualify; applying is worth it: [fns.usda.gov/snap](https://www.fns.usda.gov/snap)
 - **Feeding America food bank locator:** [feedingamerica.org/find-your-local-foodbank](https://www.feedingamerica.org/find-your-local-foodbank)
 
-> **Local resources (deacons: add Lynchburg-area Meals on Wheels contact and any senior meal sites here)**
+**Meals on Wheels of Greater Lynchburg** — 605 Clay St, Lynchburg, VA (mailing: PO Box 1388, Lynchburg, VA 24505). Phone (434) 847-0796. Serves Lynchburg, Amherst, Bedford, and Campbell counties: [mealslynchburg.org](https://mealslynchburg.org)
 
 ---
 

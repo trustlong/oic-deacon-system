@@ -16,6 +16,8 @@ For full operational detail, see the [[handbook/index|Deacons Handbook]].
 
 ## Qualifications
 
+See [[handbook-qualifications|Deacon Qualifications]] for the six specific qualities the Handbook draws from 1 Timothy 3:8–12.
+
 - Biblically qualified per 1 Timothy 3:8–12
 - Active in all areas of church life
 - Minimum **1 year** of church [[bylaws-membership|membership]] prior to serving (exception: initial Deacons)

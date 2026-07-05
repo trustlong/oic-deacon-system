@@ -15,5 +15,6 @@ One In Christ (OIC) is an Elder-led, congregationally governed church affiliated
 - [[bylaws-trustees|Article 2 — Board of Trustees]]
 - [[bylaws-teams|Article 3 — Church Teams]]
 - [[bylaws-meetings|Article 4 — Church Meetings]]
-- [[bylaws-elections|Article 5 — Annual Nominations & Elections]]
+- [[bylaws-fiscal-year-budget|Article 5, Section 1 — Fiscal Year & Budget Plan]]
+- [[bylaws-elections|Article 5, Section 2 — Annual Nominations & Elections]]
 - [[bylaws-amendments|Article 6 & 7 — Amendments & Adoption]]

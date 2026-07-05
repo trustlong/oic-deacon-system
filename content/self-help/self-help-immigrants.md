@@ -18,7 +18,9 @@ Learning or improving your English opens many doors.
 - **Duolingo** — free language app for building vocabulary and basic conversation: [duolingo.com](https://www.duolingo.com)
 - **ESL in America (government resource)** — find adult ESL programs near you: [literacydirectory.org](https://www.literacydirectory.org)
 
-> **Local resources (deacons: add Lynchburg-area ESL classes and adult education programs here)**
+**Local classes:**
+- **Lynchburg City Schools Adult Learning Program** — free ELL (English Language Learner) classes: daytime Tue/Thu 9:00–11:30am at University of Lynchburg (Hopwood Hall, Rm 006, 1501 Lakeside Dr.), evening Tue/Thu 4:45–7:15pm at Sheffield Elementary (115 Kenwood Pl.). Call (434) 515-5000, option 0, to register.
+- **ACE of Central Virginia (Adult & Career Education)** — free, open-enrollment ESL classes at 1200 Polk St. (Amelia Pride Center), Lynchburg. Mon–Fri 8am–3pm. Call (434) 515-5160.
 
 ---
 
@@ -28,7 +30,7 @@ Learning or improving your English opens many doors.
   - Look for "New Residents" and "Driver's License & ID" sections
   - Virginia requires a REAL ID-compliant document for federal purposes; the DMV website explains requirements for non-citizens
 
-> **Local resources (deacons: add the nearest DMV Customer Service Center location and hours here)**
+**Nearest DMV Customer Service Center:** 3236 Odd Fellows Rd, Lynchburg, VA 24501. Mon–Fri 8am–5pm, Sat 8am–12pm. Wait times can be long — consider booking an appointment online at [dmv.virginia.gov](https://www.dmv.virginia.gov) or checking current wait times before you go.
 
 ---
 
@@ -39,7 +41,7 @@ A Social Security Number (SSN) or Individual Taxpayer Identification Number (ITI
 - **Social Security Administration** — how to apply for a card, what documents are needed, and what immigrants are eligible: [ssa.gov/ssnumber](https://www.ssa.gov/ssnumber/)
 - For ITIN (if you are not eligible for an SSN): [IRS ITIN information](https://www.irs.gov/individuals/individual-taxpayer-identification-number)
 
-> **Local resources (deacons: add the nearest Social Security Administration office address and hours here)**
+**Nearest Social Security office:** 7618 Timberlake Rd, Lynchburg, VA 24502. Phone (866) 964-6142. Mon–Fri 9am–4pm (closes at noon on Wednesdays). Many things can be done online or by phone at 1-800-772-1213 without a visit — check first.
 
 ---
 
@@ -50,7 +52,7 @@ A Social Security Number (SSN) or Individual Taxpayer Identification Number (ITI
 
 > **Important:** This page provides referral information only. Immigration law is complex and errors can have serious consequences. For legal advice about your specific situation, seek a qualified immigration attorney or accredited representative. The deacons can help you find a trustworthy referral.
 
-> **Local resources (deacons: add referrals to local accredited immigration legal aid here)**
+**Local option to start with:** Virginia Legal Aid Society (VLAS) is headquartered in Lynchburg and serves the city and surrounding counties — but call first to confirm whether they currently handle immigration matters, since legal aid societies' immigration capacity changes: [vlas.org](https://www.vlas.org). If they can't help directly, ask them or a deacon for a referral to an accredited immigration attorney or Department of Justice–accredited representative.
 
 ---
 
@@ -61,7 +63,7 @@ Having a bank account makes receiving pay, paying bills, and managing money much
 - Many banks and credit unions allow immigrants to open accounts with a passport and ITIN — ask at the bank directly
 - **MyMoney.gov** — free government financial education resources: [mymoney.gov](https://www.mymoney.gov)
 
-> **Local resources (deacons: add any banks or credit unions known to be immigrant-friendly in the Lynchburg area here)**
+> **Still needed (deacons: add):** which local banks or credit unions members have personally had good experience opening accounts with using a passport/ITIN — this varies by branch and changes over time, so a firsthand recommendation is more reliable than a web search.
 
 ---
 
@@ -77,7 +79,7 @@ Having a bank account makes receiving pay, paying bills, and managing money much
 - **211.org** — call or text **211** to find help with utility bills, deposits, and emergency energy assistance in your area: [211.org](https://www.211.org)
 - **LIHEAP (Low Income Home Energy Assistance)** — federal program that helps with heating and cooling costs: [acf.hhs.gov/ocs/low-income-home-energy-assistance-program-liheap](https://www.acf.hhs.gov/ocs/low-income-home-energy-assistance-program-liheap)
 
-> **Local resources (deacons: add Virginia LIHEAP contact info and local utility assistance programs here)**
+**Lynchburg LIHEAP / fuel assistance:** apply through the Lynchburg Department of Social Services, 99 9th St, Lynchburg, VA 24505. Phone (434) 455-5850. For SNAP/TANF/Medicaid questions specifically, the statewide line is 855-635-4370.
 
 ---
 
@@ -88,7 +90,14 @@ Having a bank account makes receiving pay, paying bills, and managing money much
 - **WIC** — for pregnant women, new mothers, and children under 5: [fns.usda.gov/wic](https://www.fns.usda.gov/wic)
 - **211.org** — also lists local food pantries: [211.org](https://www.211.org)
 
-> **Local resources (deacons: add Lynchburg-area food pantries, including hours and any language support, here)**
+**Lynchburg-area food pantries** *(call ahead — hours and requirements change)*:
+- **Blue Ridge Area Food Bank** — 501 12th St; Mon–Fri 8am–4:30pm (closed for lunch)
+- **Lynchburg Daily Bread** — free hot carry-out lunch daily, 10:15am–12:20pm
+- **Tree of Life Ministries** — 2027 12th St; Mon 8–10am, Tue 11am–1pm
+- **Lynchburg First Church of the Nazarene** — Wed 9am–12pm, Compassionate Ministry Center
+- **The Fillin' Station (Timberlake Church)** — Mon 5–6:30pm, Fri 11am–12:30pm
+
+> **Still needed (deacons: add):** which of these pantries have Spanish or other language support on-site, since that varies by location and isn't something I can verify from a web search.
 
 ---
 
@@ -97,7 +106,7 @@ Having a bank account makes receiving pay, paying bills, and managing money much
 - **FreeCycle** — a community network for giving and receiving free items: [freecycle.org](https://www.freecycle.org)
 - **Facebook Marketplace** and local "buy nothing" groups can also be good sources of free or low-cost furniture
 
-> **Local resources (deacons: add local thrift stores, furniture banks, or church donation resources here)**
+**Thrift stores:** Goodwill has two Lynchburg locations — 3213 Forest Brook Rd (Walmart Plaza) and 2420 Wards Rd, both open Mon–Sat 10am–7pm, Sun 12–6pm. Salvation Army also serves the area; check [salvationarmyusa.org](https://www.salvationarmyusa.org) for the current nearest location, as store locations change more often than church-run directories can track.
 
 ---
 

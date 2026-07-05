@@ -11,6 +11,7 @@ This handbook is approved by the Office of Elders and subordinate to the OIC Byl
 ## Foundations
 
 - [[handbook-what-is-a-deacon|What Is a Deacon?]]
+- [[handbook-qualifications|Deacon Qualifications]]
 - [[handbook-tangible-vs-spiritual|Tangible vs. Spiritual Needs]]
 - [[handbook-polity|Church Polity]]
 - [[handbook-structure|Office Structure]]
@@ -26,4 +27,4 @@ This handbook is approved by the Office of Elders and subordinate to the OIC Byl
 
 For member-facing help resources, see [[need-help|Need Help?]].
 
-> Note: The full operational response workflow (how needs are received, triaged, and resolved) is currently in development.
+> Note: The full operational response workflow (how needs are received, triaged, and resolved) is documented in an internal set of design notes for duty deacons and is intentionally not published on this member-facing site.

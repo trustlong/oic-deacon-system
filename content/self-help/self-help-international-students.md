@@ -18,7 +18,7 @@ Whether you are arriving for the first time or have been here a semester already
 - Let a deacon or church contact know your arrival flight and time — we can often arrange a pickup or point you to transportation options
 - **Amtrak** serves Lynchburg if you are arriving from a major city: [amtrak.com](https://www.amtrak.com)
 
-> **Local resources (deacons: add specific pickup coordination instructions or a contact for new arrivals here)**
+> **Still needed (deacons: add):** a specific contact name/method for arranging an airport pickup — this is a church-run arrangement, not something publicly listed.
 
 ### Your School's International Student Office
 
@@ -42,7 +42,11 @@ Getting around without a car takes planning, but it is doable.
 - **Enterprise, Hertz, and other rental agencies** are available locally if you have a valid license
 - **Carpooling** — church members often coordinate rides; speak to a deacon about connecting you with someone who passes near your school
 
-> **Local resources (deacons: add church carpool contacts, campus shuttle info, or regular ride-sharing arrangements here)**
+**Liberty University students:** Liberty Transit runs free bus routes (71/72/75) roughly every 6-7 minutes on weekdays covering main campus, East Campus, and Liberty Mountain, plus on-demand rides daily 5:30am–1am. Call (434) 592-3640 or email TransitDispatch@liberty.edu.
+
+**Lynchburg University / Randolph College students:** check with your school's international student office or transportation office directly.
+
+> **Still needed (deacons: add):** a church carpool contact for students without a car.
 
 ---
 
@@ -54,7 +58,9 @@ Setting up a place to live can be expensive. These options can help:
 - **Facebook Marketplace** and local "buy nothing" groups often have furniture, kitchenware, and bedding
 - **Thrift stores** (Goodwill, Salvation Army, and others) offer low-cost household goods
 
-> **Local resources (deacons: add local thrift stores, church donation resources, or student move-out free item events here)**
+**Thrift stores:** Goodwill has two Lynchburg locations — 3213 Forest Brook Rd (Walmart Plaza) and 2420 Wards Rd, both Mon–Sat 10am–7pm, Sun 12–6pm. Salvation Army also serves the area; check [salvationarmyusa.org](https://www.salvationarmyusa.org) for the current nearest location.
+
+> **Still needed (deacons: add):** church donation resources or student move-out free-item events specific to our congregation.
 
 ---
 
@@ -86,7 +92,7 @@ If you would like to spend a holiday with a church family, please [[need-help|le
 - **Duolingo** — free vocabulary and conversation practice: [duolingo.com](https://www.duolingo.com)
 - Many church members are happy to practice conversation — ask a deacon to connect you
 
-> **Local resources (deacons: add local ESL conversation partners or tutoring programs here)**
+**ACE of Central Virginia** offers free, open-enrollment ESL classes at 1200 Polk St. (Amelia Pride Center), Lynchburg, Mon–Fri 8am–3pm — call (434) 515-5160. Lynchburg City Schools' Adult Learning Program also runs free ELL classes Tue/Thu (daytime at University of Lynchburg, evening at Sheffield Elementary) — call (434) 515-5000, option 0.
 
 ---
 

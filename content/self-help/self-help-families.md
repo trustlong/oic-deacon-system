@@ -28,7 +28,14 @@ If you need meals coordinated and are not sure how to set it up, [[need-help|ask
 - **Head Start** — federally funded early childhood program for income-qualifying families with children under 5: [eclkc.ohs.acf.hhs.gov](https://eclkc.ohs.acf.hhs.gov)
 - **WIC (Women, Infants, and Children)** — nutrition support for pregnant and postpartum women and children under 5: [fns.usda.gov/wic](https://www.fns.usda.gov/wic)
 
-> **Local resources (deacons: add Lynchburg-area licensed childcare providers, Head Start locations, and local parent support groups here)**
+**Head Start / Early Head Start locations:**
+- **LYN-CAG Head Start** — 701 Thomas Rd, Lynchburg. Call (434) 849-7542 to register.
+- **HumanKind Early Head Start** — 1903 HumanKind Way, Lynchburg (ages 0–3). Call (434) 384-3131.
+- **Old Forest Road Head Start** — 3704 Old Forest Rd, Lynchburg. Call (434) 316-9471.
+
+For licensed childcare beyond Head Start, [Center for Early Success](https://centerforearlysuccess.org/finding-childcare/lynchburg/) maintains a Lynchburg-specific directory.
+
+> **Still needed (deacons: add):** local parent support groups — these tend to be informal or church-run and aren't well indexed publicly.
 
 ---
 
@@ -40,7 +47,7 @@ When the bills pile up, these are places to turn before they become a crisis:
 - **LIHEAP (Low Income Home Energy Assistance Program)** — federal program that helps with heating and cooling costs: [acf.hhs.gov/ocs/low-income-home-energy-assistance-program-liheap](https://www.acf.hhs.gov/ocs/low-income-home-energy-assistance-program-liheap)
 - **Virginia Department of Housing and Community Development** — rental assistance programs: [dhcd.virginia.gov](https://www.dhcd.virginia.gov)
 
-> **Local resources (deacons: add Lynchburg-area rental and utility assistance contacts here)**
+**Lynchburg Department of Social Services** — 99 9th St, Lynchburg, VA 24505. Phone (434) 455-5850. Handles fuel/energy assistance (LIHEAP), Medicaid, and other emergency assistance intake. For SNAP/TANF/Medicaid questions, the statewide line is 855-635-4370.
 
 ---
 
@@ -50,7 +57,13 @@ When the bills pile up, these are places to turn before they become a crisis:
 - **Feeding America food bank locator:** [feedingamerica.org/find-your-local-foodbank](https://www.feedingamerica.org/find-your-local-foodbank)
 - **211.org** — lists local food pantries and emergency food near you: [211.org](https://www.211.org)
 
-> **Local resources (deacons: add Lynchburg-area food pantries, including hours and any child/family-specific programs, here)**
+**Lynchburg-area food pantries** *(call ahead — hours and requirements change)*:
+- **Blue Ridge Area Food Bank** — 501 12th St; Mon–Fri 8am–4:30pm (closed for lunch)
+- **Lynchburg Daily Bread** — free hot carry-out lunch daily, 10:15am–12:20pm
+- **Tree of Life Ministries** — 2027 12th St; Mon 8–10am, Tue 11am–1pm
+- **Gospel Community Church (The Connecting Point)** — food distribution 1st and 3rd Saturday; weekly warm breakfast Wed/Sun mornings — a good fit if you have kids and want a family-oriented pickup
+
+WIC (see above) and Head Start both also connect families to additional family-specific support while you're already in the system.
 
 ---
 
