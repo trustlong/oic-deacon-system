@@ -1,6 +1,7 @@
 ---
 title: "Deacon Playbook — Duty Deacon SOP"
 status: design
+publish: true
 tags: ["design"]
 ---
 

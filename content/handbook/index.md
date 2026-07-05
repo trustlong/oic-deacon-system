@@ -27,4 +27,4 @@ This handbook is approved by the Office of Elders and subordinate to the OIC Byl
 
 For member-facing help resources, see [[need-help|Need Help?]].
 
-> Note: The full operational response workflow (how needs are received, triaged, and resolved) is documented in an internal set of design notes for duty deacons and is intentionally not published on this member-facing site.
+> Note: The full operational response workflow (how needs are received, triaged, and resolved) is documented in [[deacon-playbook|the Deacon Playbook]] and [[on-call-runbook|On-Call Runbook]] for duty deacons. The rest of that design work (routing logic, urgency definitions, stall detection, etc.) stays in an internal, unpublished set of notes.

@@ -58,4 +58,4 @@ See [[routing-and-functions]] for the full function map and routing logic.
 
 **Deacon Chair?** Read everything, but pay particular attention to [[crack-detection]].
 
-> **Internal working document.** This folder is excluded from the public site. Notes do not carry `publish: true`. Move finalized, congregation-appropriate content into `content/published/` when ready.
+> **Internal working document.** This folder defaults to excluded from the public site — notes here do not carry `publish: true` unless explicitly opted in. As of this note, three pages are opted in and public: [[on-call-runbook]], [[deacon-playbook]], and [[duty-roster]], since deacons need a working link to reach them without repo access. Everything else here stays unpublished until it is finalized and congregation-appropriate.

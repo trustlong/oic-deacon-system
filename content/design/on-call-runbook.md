@@ -1,6 +1,7 @@
 ---
 title: "On-Call Runbook — One Page"
 status: design
+publish: true
 tags: ["design", "runbook"]
 ---
 

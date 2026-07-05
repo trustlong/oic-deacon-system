@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "en-US",
     baseUrl: "trustlong.github.io/oic-deacon-system",
-    ignorePatterns: ["private", "templates", ".obsidian", "design", "reference"],
+    ignorePatterns: ["private", "templates", ".obsidian", "reference"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
@@ -72,8 +72,12 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
     ],
     // Opt-in publishing: only notes with `publish: true` frontmatter are built
-    // into the public site. Combined with ignorePatterns above, this means PII
-    // (membership data) and internal design drafts can never leak by accident.
+    // into the public site. `reference/` is additionally hard-excluded above
+    // regardless of frontmatter, since it holds PII (membership data) that must
+    // never be one stray frontmatter line away from leaking. Everything else,
+    // including content/design/, defaults to unpublished and must opt in with
+    // `publish: true` per file (e.g. deacon-playbook.md, duty-roster.md,
+    // on-call-runbook.md are public; the rest of design/ is not).
     filters: [Plugin.ExplicitPublish()],
     emitters: [
       Plugin.AliasRedirects(),

@@ -1,6 +1,7 @@
 ---
 title: "Duty Roster — Rotation Process"
 status: design
+publish: true
 tags: ["design"]
 ---
 
