@@ -36,6 +36,7 @@ See [[routing-and-functions]] for the full function map and routing logic.
 
 | Note | What it covers |
 |---|---|
+| [[on-call-runbook]] | One-page distillation of the playbook — the "phone in hand, half-asleep" version |
 | [[deacon-playbook]] | **Start here.** The complete duty-deacon SOP, linear and self-teachable |
 | [[request-taxonomy]] | How requests are categorized: type, function, sub-lane |
 | [[routing-and-functions]] | The four functions, sub-lanes, resource priority pass, owner selection |
